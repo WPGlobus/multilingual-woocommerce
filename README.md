@@ -8,6 +8,10 @@ http://demo-store.wpglobus.com/
 
 ### Screenshots: ###
 
+![Front-end with language switcher](http://www.wpglobus.com/app/uploads/2015/06/woocommerce-wpglobus-front-end.png)
+
+#### See more: ####
+
 http://www.wpglobus.com/extensions/woocommerce-wpglobus/screenshots/
 
 # About #
